@@ -1,3 +1,4 @@
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
 # DATA-CLEANING-AND-EDA-USING-SQL
 
 This project explores a real-world dataset of global layoffs to uncover trends, patterns, and company-level insights. The goal is to clean, structure, and analyze the data using pure SQL. The project is divided into two main phases:
